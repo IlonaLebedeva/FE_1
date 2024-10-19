@@ -1,0 +1,89 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #F5F5F7;
+}
+
+h1 {
+	margin: 20px;
+	padding: 20px;
+	color: #387478;
+	background-color: #d7a48a;
+	border: 5px double #7d644e;
+}
+
+h3 {
+	color: #DA8359;
+}
+
+p {
+	margin-left: 10px;
+
+}
+
+li {
+	color: #DA8359;
+}
+
+.words {
+	margin-left: 30px;
+
+}
+
+.me {
+	margin: 10px;
+	padding: 20px;
+}
+
+.holiday {
+	margin: 10px;
+	padding: 20px;
+}
+
+.photo_1 {
+	border: 2px double #DA8359;
+	border-width: 10px;
+	margin-top: 10px;
+	width: 300px;
+}
+
+.pet {
+	margin: 10px;
+	padding: 20px;
+
+}
+
+.photo_2 {
+	margin-top: 10px;
+	padding: 5px;
+	border: 4px solid #387478;
+	border-width: 5px;
+	width: 300px;
+}
+
+.table_1 {
+	border: 2px solid black;
+	border-collapse: collapse;
+	text-align: center;
+	padding: 20px;
+	margin: 10px;
+}
+
+.time {
+	margin-top: 10px
+}
+
+.table_1 td {
+	border: 1px solid black;
+}
+
+.table_1 th {
+	border: 2px solid black;
+}
+
+.follow {
+	margin-top: 10px;
+}
